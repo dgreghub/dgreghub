@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgreg.shin@gmail.com)](mailto:dgreg.shin@gmail.com)
 	

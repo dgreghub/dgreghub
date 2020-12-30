@@ -49,7 +49,7 @@ MQ : <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square
 </p>
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgreg.shin@gmail.com)](mailto:dgreg.shin@gmail.com)
+Email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgreg.shin@gmail.com)](mailto:dgreg.shin@gmail.com)
 
   
 	

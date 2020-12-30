@@ -49,3 +49,4 @@ MQ : <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square
 </p>
 
 	
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer&fontSize=90)

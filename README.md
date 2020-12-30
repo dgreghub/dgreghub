@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=200&section=header&text=GREG&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Shark&color=timeGradient&height=200&section=header&text=GREG&fontSize=90)
 
 <h3> Tech Stack </h3>
 <p>
@@ -48,8 +48,4 @@ DB : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo
 MQ : <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/></a>
 </p>
 
-![footer]
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgreg.shin@gmail.com)](mailto:dgreg.shin@gmail.com)
-
-  
 	

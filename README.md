@@ -44,6 +44,7 @@ machine learning : <img src="https://img.shields.io/badge/TensorFlow-FF6F00?styl
 <p>
 DB : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> 
 </p>
+<p>
 MQ : <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/></a>
 </p>
 

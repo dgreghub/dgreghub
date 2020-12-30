@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=GREG&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=GREG&fontSize=90)
 
 <h3> Tech Stack </h3>
 <p>
@@ -49,4 +49,4 @@ MQ : <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square
 </p>
 
 	
-![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=footer&fontSize=90)

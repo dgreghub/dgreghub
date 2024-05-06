@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=270&section=header&text=Greg's%20hub&fontSize=45)
 
 ![dgreghub stats](https://github-readme-stats.vercel.app/api?username=dgreghub&show_icons=true&theme=radical)
 <h3>⚡Tech Stack</h3>
@@ -48,3 +49,4 @@ DB : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo
 Event : <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/></a>
 </p>
 
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer&fontSize=90)

@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=OneDayOneCommit&fontSize=45)
 
 ![dgreghub stats](https://github-readme-stats.vercel.app/api?username=dgreghub&show_icons=true&theme=radical)
 <h3>⚡Tech Stack</h3>
@@ -46,8 +45,6 @@ Machine Learning : <img src="https://img.shields.io/badge/TensorFlow-FF6F00?styl
 DB : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> 
 </p>
 <p>
-MQ : <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/></a>
+Event : <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/></a>
 </p>
 
-	
-![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer&fontSize=90)
